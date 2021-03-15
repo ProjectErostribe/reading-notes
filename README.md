@@ -7,7 +7,7 @@ I found my way to volunteering for TechInclusion, a San Francisco based non-prof
 
 Other than learning to code, I am founder of 💗 **Project Erostribe** 💗 a creative agency that does everything from design sustainable motorcycle gear, to develop apps that help non-verbal persons on the autism spectrum communicate and organise their lives.  (www.projecterostribe.com)
 
-My favorite drink is a matcha latte, and in my spare time I can be found dreaming up a return to Shpongleland.
+My favorite drink is a matcha latte :tea: :tea:, and in my spare time I can be found dreaming up a return to Shpongleland.
 
 ## GROWTH MINDSET:
 A growth mindset is the ability to learn from setbacks.  Most people think that learning is something that happens when you're getting all the answers right, but in my experience, real learning and growth comes when things aren't making sense and you have to connect the dots.
