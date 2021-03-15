@@ -5,7 +5,7 @@ My name is Paidamoyo-Janet Azehko, but most people call me MYLES. I decided to l
 
 I found my way to volunteering for TechInclusion, a San Francisco based non-profit that works to get underprivilged and underrepresented people into the tech industry.
 
-Other than learning to code, I am founder of 💗 **Project Erostribe** 💗 a creative agency that does everything from design sustainable motorcycle gear, to develop apps that help non-verbal persons on the autism spectrum communicate and organise their lives.  (www.projecterostribe.com ***WEBSITE COMING SOON!!***)
+Other than learning to code, I am founder of 💗 **Project Erostribe** 💗 a creative agency that does everything from design sustainable motorcycle gear, to develop apps that help non-verbal persons on the autism spectrum communicate and organise their lives.  (www.projecterostribe.com ⬅️ ***WEBSITE COMING SOON!!***)
 
 My favorite drink is a matcha latte :tea: :tea:, and in my spare time I can be found dreaming up a return to Shpongleland.
 
