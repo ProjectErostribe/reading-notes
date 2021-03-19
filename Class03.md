@@ -1,0 +1,4 @@
+# REVISIONS AND THE CLOUD
+[CLASS VIDEO](https://youtu.be/PB6Rkl3ef34)
+
+## READING NOTES:
