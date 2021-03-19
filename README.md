@@ -19,9 +19,9 @@ In the words of Delmer Eugene Croft:
 
 ## TABLE OF CONTENTS:
 #### [CLASS 01:](https://github.com/ProjectErostribe/reading-notes/blob/main/Read01.md) Learning Markdown
-#### [CLASS 02:](https://github.com/ProjectErostribe/reading-notes/blob/main/Read02.md) The Coder's Computer<br>
-[The Command Line](https://github.com/ProjectErostribe/reading-notes/blob/main/Class02.md#the-command-line)<br>
-[Basic Navigation](https://github.com/ProjectErostribe/reading-notes/blob/main/Class02.md#basic-navigation)<br>
+#### [CLASS 02:](https://github.com/ProjectErostribe/reading-notes/blob/main/Read02.md) The Coder's Computer
+[The Command Line](https://github.com/ProjectErostribe/reading-notes/blob/main/Class02.md#the-command-line)
+[Basic Navigation](https://github.com/ProjectErostribe/reading-notes/blob/main/Class02.md#basic-navigation)
 [About Files](https://github.com/ProjectErostribe/reading-notes/blob/main/Class02.md#about-files)
 #### [CLASS 03:](link) Revisions and the Cloud
 #### [CLASS 04:](link) Structure Web Pages with HTML 
