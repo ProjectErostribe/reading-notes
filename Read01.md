@@ -1,5 +1,5 @@
 # MASTERING MARKDOWN (https://guides.github.com/features/mastering-markdown/)
-
+[CLASS VIDEO](https://www.youtube.com/watch?v=&list=PLFgwPLfQrCx2SsFm8_Hg2_CCqgT72--5I&index=1)
 ## READING NOTES:
 Markdown is a way to style text on GitHub.  Here are some ways to style code using Markdown:
 
