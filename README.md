@@ -18,11 +18,11 @@ In the words of Delmer Eugene Croft:
 > "Make your purpose brilliant.  Keep it clear.  Seek to energise it with positives."
 
 ## TABLE OF CONTENTS:
-### [CLASS 01:](https://github.com/ProjectErostribe/reading-notes/blob/main/Read01.md) Learning Markdown
-### [CLASS 02:](https://github.com/ProjectErostribe/reading-notes/blob/main/Read02.md) The Coder's Computer
-### [CLASS 03:](link) Revisions and the Cloud
-### [CLASS 04:](link) Structure Web Pages with HTML 
-### [CLASS 05:](link) Design Web Pages with CSS 
-### [CLASS 06:](link) Activate Web Pages with JavaScript 
-### [CLASS 07:](link) Programming with JavaScript
-### [CLASS 08:](link) Operators and Loops
+#### [CLASS 01:](https://github.com/ProjectErostribe/reading-notes/blob/main/Read01.md) Learning Markdown
+#### [CLASS 02:](https://github.com/ProjectErostribe/reading-notes/blob/main/Read02.md) The Coder's Computer
+#### [CLASS 03:](link) Revisions and the Cloud
+#### [CLASS 04:](link) Structure Web Pages with HTML 
+#### [CLASS 05:](link) Design Web Pages with CSS 
+#### [CLASS 06:](link) Activate Web Pages with JavaScript 
+#### [CLASS 07:](link) Programming with JavaScript
+#### [CLASS 08:](link) Operators and Loops
