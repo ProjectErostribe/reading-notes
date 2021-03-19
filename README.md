@@ -18,6 +18,7 @@ In the words of Delmer Eugene Croft:
 > "Make your purpose brilliant.  Keep it clear.  Seek to energise it with positives."
 
 ## TABLE OF CONTENTS:
+________________________|________________________________________________________________________________________________________
 #### [CLASS 01:](https://github.com/ProjectErostribe/reading-notes/blob/main/Read01.md) Learning Markdown
 #### [CLASS 02:](https://github.com/ProjectErostribe/reading-notes/blob/main/Read02.md) The Coder's Computer
 #### [CLASS 03:](link) Revisions and the Cloud
