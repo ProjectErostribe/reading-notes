@@ -26,5 +26,21 @@ The Difference Between Text Editors and IDEs:
 - IDE (Intergrated Development Environment): a combination of text editor, file manager, compiler and debugger.
 
 ## The Command Line
+### What is the Command Line?
+- The command line or terminal is a text based interface to your machine.  The command line opperates by presenting an output to which the user enters a command.
+- Typically a command comes first, then an argument is recieved.
+- 
+### Opening A Terminal
+- You can open the command line from the Finder menu on a Mac by entering "Terminal"
+- The terminal is called "Powershell" in Windows.
+- On Linux you can find it in Systems Applications -> Utilities.
+
+### The Shell, Bash
+- the shell: the part of the operating system that defines how the terminal will behave and run.
+- Bash: one of the options as to how the shell operates and behaves.
+- 
+### Shortcuts
+- Shortcuts can help you better navigate the terminal.  Some of the well known ones are the direction arrows.
+
 ## Basic Navigation
 ## About Files
