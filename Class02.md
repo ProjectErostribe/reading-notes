@@ -1,5 +1,7 @@
 # THE CODER'S COMPUTER
 [CLASS VIDEO](https://youtu.be/lGKPo2c1x6o)
+
+#READING NOTES:
 ## Chosing A Text Editor
 #### What is a Text Editor?
 A text editor is a piece of software that allows you to write and manage code.
