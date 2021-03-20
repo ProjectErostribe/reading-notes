@@ -23,9 +23,9 @@ In the words of Delmer Eugene Croft:
 [The Command Line](https://github.com/ProjectErostribe/reading-notes/blob/main/Code102/Class02.md#what-is-the-command-line)<br>
 [Basic Navigation](https://github.com/ProjectErostribe/reading-notes/blob/main/Code102/Class02.md#basic-navigation)<br>
 [About Files](https://github.com/ProjectErostribe/reading-notes/blob/main/Code102/Class02.md#about-files)
-#### [CLASS 03:](link) Revisions and the Cloud
-#### [CLASS 04:](link) Structure Web Pages with HTML 
-#### [CLASS 05:](link) Design Web Pages with CSS 
-#### [CLASS 06:](link) Activate Web Pages with JavaScript 
-#### [CLASS 07:](link) Programming with JavaScript
-#### [CLASS 08:](link) Operators and Loops
+#### [CLASS 03:](https://github.com/ProjectErostribe/reading-notes/blob/main/Code102/Class03.md) Revisions and the Cloud
+#### [CLASS 04:](https://github.com/ProjectErostribe/reading-notes/blob/main/Code102/Class04.md) Structure Web Pages with HTML 
+#### [CLASS 05:](https://github.com/ProjectErostribe/reading-notes/blob/main/Code102/Class05.md) Design Web Pages with CSS 
+#### [CLASS 06:](https://github.com/ProjectErostribe/reading-notes/blob/main/Code102/Class06.md) Activate Web Pages with JavaScript 
+#### [CLASS 07:](https://github.com/ProjectErostribe/reading-notes/blob/main/Code102/Class07.md) Programming with JavaScript
+#### [CLASS 08:](https://github.com/ProjectErostribe/reading-notes/blob/main/Code102/Class08.md) Operators and Loops
